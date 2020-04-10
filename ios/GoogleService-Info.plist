@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>22318667335-sarjhkek7mlt9osbt8tuv1fu6l8gnmug.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.22318667335-sarjhkek7mlt9osbt8tuv1fu6l8gnmug</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCHSup3ufa-XlAqXlZav7exiDGCvJ7ko8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>22318667335</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>TradingIOS</string>
+	<key>PROJECT_ID</key>
+	<string>tradingapp-9672a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tradingapp-9672a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:22318667335:ios:bf34110d7cf98114ef4362</string>
+	<key>DATABASE_URL</key>
+	<string>https://tradingapp-9672a.firebaseio.com</string>
+</dict>
+</plist>

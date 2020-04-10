@@ -1,0 +1,1 @@
+export { CategoriesReducer } from './categories.reducer'
